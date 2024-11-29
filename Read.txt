@@ -1,0 +1,3 @@
+Selamat datang di web school management
+untuk bisa login silahkan bisa di lihat folder seeder
+file UserSeeder.php
